@@ -1,8 +1,8 @@
 #include <stdio.h>
 #include <conio.h>
 int main()
-{   int a=5,b=3,c=8,d;
-    printf(ì Gia tri cua %d+%d+%d la: %dî,b,c,a, a+b+c);
+{   int a=5,b=3,c=8,d,o;
+    printf(‚Äú Gia tri cua %d+%d+%d la: %d‚Äù,b,c,a, a+b+c);
     return 0;
 }
 
